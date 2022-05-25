@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/react-payments/cards/static/js/main.b07a2d60.js",
-    "index.html": "/react-payments/cards/index.html",
-    "static/media/backButtonArrow.svg": "/react-payments/cards/static/media/backButtonArrow.750d95a90cd3457c271dc052839b1d51.svg",
-    "main.b07a2d60.js.map": "/react-payments/cards/static/js/main.b07a2d60.js.map"
+    "main.js": "/react-payments/static/js/main.78faec25.js",
+    "index.html": "/react-payments/index.html",
+    "static/media/backButtonArrow.svg": "/react-payments/static/media/backButtonArrow.750d95a90cd3457c271dc052839b1d51.svg",
+    "main.78faec25.js.map": "/react-payments/static/js/main.78faec25.js.map"
   },
   "entrypoints": [
-    "static/js/main.b07a2d60.js"
+    "static/js/main.78faec25.js"
   ]
 }
